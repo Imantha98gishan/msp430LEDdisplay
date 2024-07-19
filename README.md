@@ -4,4 +4,4 @@ LED display using the MAX7221 display driver with MSP430 microcontroller.
 - Simulation Software - Proteus
 - IDE - CCStudio
 
-Copy paste the code in main C file to CC studio IDE
+Copy and paste the code in the main C to your project
